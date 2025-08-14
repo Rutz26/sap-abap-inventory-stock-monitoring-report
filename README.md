@@ -19,3 +19,4 @@ ABAP report to monitor inventory stock using standard SAP tables and ALV display
 | `MARD` | Storage Location Stock                 |
 
 ##### Output: https://github.com/Rutz26/sap-abap-inventory-stock-monitoring-report/blob/main/Inventory%20stock%20management%20report%20output.png?raw=true
+##### LinkedIn: https://www.linkedin.com/in/rutuja-ghumatkar/ 
