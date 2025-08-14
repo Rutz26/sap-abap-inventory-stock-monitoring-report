@@ -18,4 +18,4 @@ ABAP report to monitor inventory stock using standard SAP tables and ALV display
 | `MARC` | Plant-specific Material Data           |
 | `MARD` | Storage Location Stock                 |
 
-## Output: https://github.com/Rutz26/sap-abap-inventory-stock-monitoring-report/blob/main/Inventory%20stock%20management%20report%20output.png?raw=true
+##### Output: https://github.com/Rutz26/sap-abap-inventory-stock-monitoring-report/blob/main/Inventory%20stock%20management%20report%20output.png?raw=true
